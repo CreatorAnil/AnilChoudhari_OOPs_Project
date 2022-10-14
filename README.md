@@ -1,4 +1,4 @@
-## Question 1:
+### Question 1:
 Check if a given string is a palindrome and return true or false based on the result, only with the help of recursion. You can not use string buffer or inbuilt string features like reverse etc. 
 	
 	Test cases: 
@@ -12,7 +12,7 @@ Check if a given string is a palindrome and return true or false based on the re
 3. Sample Input: “LEVEL”
                 Sample output: True
 
-Question 2:
+### Question 2:
 Design a vending machine which will have the following features. 
 a.	Customers can select and add products to their own cart and then can check out all the items with the selected payment option to get the total amount. 
 b.	Payment methods can be of two types: cash and card. If a customer chooses to pay using a card they have to pay double the amount, which is not the case for cash Payment. 
