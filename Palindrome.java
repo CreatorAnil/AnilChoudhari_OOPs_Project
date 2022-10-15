@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class Palindrome {
 	public static boolean isPalindrome(String a) {
 		if(a.length()==0 || a.length()==1) {
@@ -22,6 +21,7 @@ public class Palindrome {
 		input = sc.nextLine();
 		input = input.toLowerCase();
 		System.out.println(isPalindrome(input));
+		sc.close();
 	}
 
 }
