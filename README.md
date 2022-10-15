@@ -1,4 +1,4 @@
-### Question 1: solution in Palindrome.java file
+### Question 1: Solution in Palindrome.java file
 Check if a given string is a palindrome and return true or false based on the result, only with the help of recursion. You can not use string buffer or inbuilt string features like reverse etc. 
 	
 	Test cases: 
@@ -27,7 +27,7 @@ Design an LLD (Low-Level Design) using java to implement a vending machine with 
 
 
 
-### Question 3:
+### Question 3: Solution in SumOfIndices.java file
 Given a sorted array of integers “nums” and an integer target, return indices for two numbers such that they add up to the target.  You may assume that each input would have exactly one solution, and you may not use the same element twice. You can return the answer in any order. 
 
 Example: 
