@@ -1,4 +1,4 @@
-### Question 1:
+### Question 1: solution in Palindrome.java file
 Check if a given string is a palindrome and return true or false based on the result, only with the help of recursion. You can not use string buffer or inbuilt string features like reverse etc. 
 	
 	Test cases: 
