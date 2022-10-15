@@ -43,7 +43,7 @@ Output: [0,1], nums[0] + nums[1] = 8.
 
 
 
-### Question 4:
+### Question 4: Solution in PowerXOverN.java file
 Write a program to find the power X over N in O(logn) time complexity. 
 
 
